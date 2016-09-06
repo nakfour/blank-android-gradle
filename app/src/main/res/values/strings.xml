@@ -16,5 +16,6 @@
 
 -->
 <resources>
-    <string name="app_name">Blank</string>
+    <string name="app_name">List Application</string>
+    <string name="action_addnewlistitem"></string>
 </resources>
